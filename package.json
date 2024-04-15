@@ -2,6 +2,7 @@
   "name": "hw",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://github.com/alexkarmhon/react-template-project/",
   "type": "module",
   "scripts": {
     "dev": "vite",
